@@ -1,10 +1,10 @@
+Pengertian Waterfall:
 Metode Waterfall merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak. 
 Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses perencanaan, analisa, desain, dan implementasi pada sistem.
 
-Langkah-langkah pembuatan SDLC metode Waterfall
-berikut merupakan tahapan pengembangan dalam metode waterfall:
-1. Requirement Analysis
-2. System design
-3. Implementation
-4. Integration & Testing
-5. Operation & Maintenance
+Sejarah Waterfall:
+Penggunaan metode waterfall pertama kali diperkenalkan oleh Herbert D. Benington di Symposium on Advanced Programming Method for Digital Computers pada tanggal 29 Juni 1956. Presentasi tersebut menjelaskan tentang pengembangan perangkat lunak untuk SAGE (Semi Automatic Ground Environment).
+
+Pada tahun 1983, dipresentasikan kembali oleh Benington dan menjelaskan tentang fase – fase dalam proses pengembangannya. Dan pada tahun 1985, Departemen Pertahanan Amerika Serikat juga menggunakan metode ini dengan beberapa tahapan yang digunakan, terdiri dari 6 fase, yaitu: Preliminary design, Detailed design, Coding and unit testing, Integration, dan Testing.
+
+
