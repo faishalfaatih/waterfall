@@ -1,2 +1,6 @@
 Pengertian
 sebuah website yang bisa kita kunjungi, registrasi, membuat akun, upload file, dan bisa dikelola menggunakan VCS
+
+Istilah dalam GIT:
+- Repo : Folder project
+- Commit : Rekaman
